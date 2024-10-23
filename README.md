@@ -1,15 +1,6 @@
 
 # MintChain Daily Bot
 
-## 🔗 Links
-
-🔔 CHANNEL: https://t.me/JamBitPY
-
-💬 CHAT: https://t.me/JamBitChat
-
-💰 DONATION EVM ADDRESS: 0xe23380ae575D990BebB3b81DB2F90Ce7eDbB6dDa
-
-
 ## 📝 | Description:
 Every day at 04:30 the bot will mint SOUL in all networks that you specified and take away the available rewards.
 
